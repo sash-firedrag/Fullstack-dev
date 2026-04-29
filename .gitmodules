@@ -1,0 +1,6 @@
+[submodule "onecreditgeolocation-main/dev-frontend"]
+	path = onecreditgeolocation-main/dev-frontend
+	url = https://github.com/sash-firedrag/dev-frontend
+[submodule "onecreditgeolocation-main/dev-backend"]
+	path = onecreditgeolocation-main/dev-backend
+	url = https://github.com/sash-firedrag/dev-backend
